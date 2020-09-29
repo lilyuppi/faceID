@@ -1,0 +1,13 @@
+Dataset/FaceData/processed/1/1_0003.png 230 42 417 284
+Dataset/FaceData/processed/1/1_0009.png 66 59 214 242
+Dataset/FaceData/processed/1/1_0002.png 165 146 323 341
+Dataset/FaceData/processed/1/1_0004.png 20 39 174 227
+Dataset/FaceData/processed/1/1_0007.png 118 89 305 328
+Dataset/FaceData/processed/1/1_0010.png 183 77 345 288
+Dataset/FaceData/processed/1/1_0005.png 75 48 235 250
+Dataset/FaceData/processed/1/1_0001.png 165 97 367 356
+Dataset/FaceData/processed/1/1_0008.png 127 60 282 254
+Dataset/FaceData/processed/1/1_0006.png 117 61 319 322
+Dataset/FaceData/processed/2/2_0002.png 69 94 300 387
+Dataset/FaceData/processed/2/2_0003.png 38 55 267 344
+Dataset/FaceData/processed/2/2_0001.png 66 57 227 253
